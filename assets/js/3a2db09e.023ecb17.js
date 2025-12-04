@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkeric_post_things_i_say=globalThis.webpackChunkeric_post_things_i_say||[]).push([[8121],{8070:s=>{s.exports=JSON.parse('{"tags":[{"label":"Self-Hosting","permalink":"/blog/tags/selfhosting","description":"Related to stuff I Self-Host.","count":5},{"label":"News","permalink":"/blog/tags/news","description":"New stuff.","count":1}]}')}}]);
