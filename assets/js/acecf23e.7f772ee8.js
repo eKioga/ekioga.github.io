@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkeric_post_things_i_say=globalThis.webpackChunkeric_post_things_i_say||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/eric-post.com/blog","blogTitle":"Blog","authorsListPath":"/eric-post.com/blog/authors"}')}}]);
